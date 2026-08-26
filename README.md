@@ -2,6 +2,12 @@
 
 ### Computer Engineering Student | .NET Developer | Python & DSA Enthusiast
 
+
+
+
+
+
+
 ## 👨‍💻 About Me
 
 I'm a Computer Engineering student passionate about building practical software and continuously improving my problem-solving skills.
@@ -12,25 +18,7 @@ I'm a Computer Engineering student passionate about building practical software 
 - 🚀 Interested in **backend development, software engineering, and real-world applications**
 - 💡 I enjoy turning ideas into working projects and learning through hands-on development
 
-  ## 🛠️ Tech Stack
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Database & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📝 Leave Management System
 
@@ -61,10 +49,44 @@ Scriptoria is currently in the early stages of development and will be expanded 
 - ⚙️ **ASP.NET Core & Entity Framework Core** — improving my backend development skills
 - 🗄️ **SQL & Database Management** — strengthening database concepts and practical usage
 
- ## 🔥 GitHub Streak
+## 🎯 Goals
 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+- 🚀 Building real-world applications with **C# and .NET**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🐍 Expanding my **Python** skills
+- 🌐 Improving my **backend development and database** knowledge
+- 💡 Turning ideas into practical, usable software
 
+## 🛠️ Languages & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,python,git,github,sqlserver" />
+</p>
+
+ ## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chaitanya-bhore-308a6b308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 
