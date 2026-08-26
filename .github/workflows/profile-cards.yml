@@ -1,11 +1,8 @@
-name: Update Streak Stats
+name: Update Profile Cards
 
 on:
   schedule:
     - cron: "0 3 * * *"
-  push:
-    paths:
-      - ".github/workflows/profile-cards.yml"
   workflow_dispatch:
 
 jobs:
@@ -18,17 +15,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true&timezone=Asia/Kolkata
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
+      - name: Commit profile cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git add profile/*.svg
+          git commit -m "Update profile cards" || exit 0
           git push
