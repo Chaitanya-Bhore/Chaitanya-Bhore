@@ -61,11 +61,9 @@ Scriptoria is currently in the early stages of development and will be expanded 
 - ⚙️ **ASP.NET Core & Entity Framework Core** — improving my backend development skills
 - 🗄️ **SQL & Database Management** — strengthening database concepts and practical usage
 
-  ## 🔥 GitHub Streak
+ ## 🔥 GitHub Streak
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</a>
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 
 
