@@ -51,7 +51,8 @@ Tech: .NET • C# • ASP.NET Core • SQL
 
 Scriptoria is currently in the early stages of development and will be expanded as development progresses.
 
-🔗 [View Repository](https://github.com/Chaitanya-Bhore/LeaveManagementSystem)
+🔗 [View Repository](https://github.com/Chaitanya-Bhore/Scriptoria)
+
 
 ## 📚 Currently Learning
 
@@ -59,6 +60,13 @@ Scriptoria is currently in the early stages of development and will be expanded 
 - 🧠 **Data Structures & Algorithms** — preparing to start structured problem-solving practice
 - ⚙️ **ASP.NET Core & Entity Framework Core** — improving my backend development skills
 - 🗄️ **SQL & Database Management** — strengthening database concepts and practical usage
+
+  ## 🔥 GitHub Streak
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
+
 
 
 
